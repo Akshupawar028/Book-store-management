@@ -40,7 +40,7 @@ Database: MySQL
 Version Control: GitHub
 Setup Instructions
 Clone the repository:
-git clone 
+git clone https://github.com/Akshupawar028/Book-store-management.git
 Import the project into your IDE (Eclipse or IntelliJ).
 Set up MySQL and configure the application.properties file with your database credentials.
 Run the project from your IDE.
